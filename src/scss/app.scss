@@ -1,0 +1,14 @@
+$backgroundColor:  rgb(75, 191, 107);
+$boardBgColor: #f8f9fa;
+$boardBgTranspColor: transparent;
+$boardBgAquaColor: aqua;
+$boardFontColor: #4F517D;
+$boardCardBorder: 2px;
+$boardBorderColor: #DDC4DD;
+
+
+@import "~bootstrap/scss/bootstrap.scss";
+@import "base";
+@import "layout";
+@import "module";
+@import "state";
